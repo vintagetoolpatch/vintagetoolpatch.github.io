@@ -46,18 +46,18 @@ Secondly (and my apologies it's not tool related) here is a link to a long dull 
 
 ***  
 <br>
-![Hollow1](/assets/hollow1.jpg)
+![Hollow1](/assets/images/hollow1.jpg)
 
 ***
 <br>
-![Hollow2](/assets/hollow2.jpg)
+![Hollow2](/assets/images/hollow2.jpg)
 
 ***
 <br>
-![Hollow3](/assets/hollow3.jpg)
+![Hollow3](/assets/images/hollow3.jpg)
 
 ***
 <br>
-![Hollow4](/assets/hollow4.jpg)
+![Hollow4](/assets/images/hollow4.jpg)
 
 
