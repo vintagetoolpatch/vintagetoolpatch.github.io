@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**The Vintage Tool Patch** is a Facebook group for buying and selling vintage hand tools.  We host weekly auctions that run from Friday at 6:00pm London time until Saturday at 11:00pm London time.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+To browse or participate, join us on [Facebook][vintage-tool-patch].
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[vintage-tool-patch]: https://www.facebook.com/groups/thevintagetoolpatch/
 
-
-[jekyll-organization]: https://github.com/jekyll
