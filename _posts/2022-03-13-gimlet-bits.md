@@ -4,8 +4,6 @@ author: seanodonnell
 title:  "Gimlet Bits"
 ---
 
-Gimlet Bits
-
 I gave a talk on brace bits for Bench Talk 101 this week ([https://www.youtube.com/watch?v=qKdIYOQL00s](https://www.youtube.com/watch?v=qKdIYOQL00s)), but due to time constraints I had to skip one major family of bit. The Gimlet Bit. These bits look like traditional hand powered gimlets and are mostly used for drilling pilot holes for nails and screws. They go by many names, Swiss Pattern gimlet bits, German pattern, Persian, Twist, and my favorite "Cobra Bits".
 
 While popular in the UK and USA they where generally imported from Europe and seen as a cheap, utilitarian bit not even worth sharpening when dull. The quality of manufacture generally reflected the price point, with some bits literally unraveling their twist under heavy use.
