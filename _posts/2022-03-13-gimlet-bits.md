@@ -32,30 +32,41 @@ My Brace Bit Talk on Bench Talk 101
 <br>
 Standard Gimlet bits in various sizes.
 ![Standard Gimlet bits in various sizes.](/assets/images/gimlets/gimlets.jpg)
+
 ***
 
 <br>
 An exceptionally long set from my collection. Given the typical application is for boring pilot holes, I'm not sure why they where manufactured in this length.
 ![Long Gimlet Bits](/assets/images/gimlets/longgimlets.jpg)
+
 ***
 
 <br>
 The tapered shape of the typical gimlet bits makes them ideal for boring pilot holes for tapered nails, such as cut and roman nails.
 ![Tapered Nails](/assets/images/gimlets/taperednails.jpg)
+
 ***
+
 <br>
 Sharpening a Gimlet bit.
 ![Sharpening a Gimlet bit](/assets/images/gimlets/sharpening.jpg)
+
 ***
+
 <br>
 Gimlet bits in a 1932 Peugeot catalog, where they are described as "Swiss pattern"
 ![Gimlet bits in a 1932 Peugeot catalog](/assets/images/gimlets/peugeot1932.png)
+
 ***
+
 <br>
 "Cobra" bits in a 1959 Marples catalog
 !["Cobra" bits in a 1959 Marples catalog](/assets/images/gimlets/1959marples.png)
+
 ***
+
 <br>
 "Screw bits" in a 1930 Tyzack catalog.
 !["Screw bits" in a 1930 Tyzack catalog](/assets/images/gimlets/tyzack1930.png)
+
 ***
