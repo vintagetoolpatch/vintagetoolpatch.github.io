@@ -18,12 +18,6 @@ Sandersons are to the best of my knowledge the only Irish saw manufacturer to ma
 ***
 
 <br>
-Standard Gimlet bits in various sizes.
-![Standard Gimlet bits in various sizes.](/assets/images/gimlets/gimlets.jpg)
-
-***
-
-<br>
 A Sandersons hand saw. The handle does not look like much, but its quite comfortable in use
 ![Sandersons Saw](/assets/images/sandersons/sandersonsaw2.jpg)
 
