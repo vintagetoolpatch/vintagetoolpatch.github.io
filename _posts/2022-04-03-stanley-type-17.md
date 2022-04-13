@@ -26,6 +26,6 @@ Below is a great example of a Stanley No4 from that era and naturally all the re
 
 ---
 
-![Stanley Number 2 through Number 8 Front View](/assets/images/type-17/no2-8-front.png)
-![Stanley Number 2 through Number 8 Back View](/assets/images/type-17/no2-8-back.png)
+![Stanley Number 2 through Number 8 Front View](/assets/images/type-17/no2-8-front.jpg)
+![Stanley Number 2 through Number 8 Back View](/assets/images/type-17/no2-8-back.jpg)
 
