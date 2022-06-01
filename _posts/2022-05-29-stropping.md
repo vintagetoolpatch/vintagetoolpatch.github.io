@@ -26,6 +26,7 @@ Below are 67 images where I dig in to try and answer these, but for those in a h
 5. Probably not, certainly should reload a little more often
 
 This and other tool diversions are archived at [https://blog.vintagetoolpatch.com](https://blog.vintagetoolpatch.com). If you would like to write one, let me know!
+
 ***
 
 <br>
@@ -53,7 +54,7 @@ The scope claims a max of 1000x, rubbish, its far less. Here is a 1 euro coin.
 
 This is one of the stars on the coin (about 1mm actual size) through the scope.
 <br>
-![Euro Coin Star](/assets/images/stropping/5-euro.jpg)
+![Euro Coin Star](/assets/images/stropping/5-euro.png)
 
 ***
 
@@ -159,7 +160,7 @@ Before and after, 3000 grit vs chrome oxide. again, ignore the burr, its the fin
 
 ***
 
-0.1 Micron Diamond paste (approx 250,000 grit) on a strop. Again, this strpo has not been charged in months.
+0.1 Micron Diamond paste (approx 250,000 grit) on a strop. Again, this strop has not been charged in months.
 <br>
 ![0.1 Micron Diamond Strop](/assets/images/stropping/18-diamondstrop.png)
 
@@ -207,7 +208,7 @@ Side by side. I'm happy to say that edge has not been rounded over.
 
 ***
 
-The next question in my mind, do I need the chrome oxide strop, can I go straight to diamond? The Chrome oxide is about 45000 grit. Which is why I think people with ultra fine finishing stones dont see much of a benefit to stopping. If you have a 20k or 40k finishing stone. It does not matter much. however I'm going from 3000 grit on my final stone to 250000 on my final strop. I felt I needed an intermediate step. I sadly took my wonderfully sharp chisel and took it back to a 1200 grit diamond plate finish. 
+The next question in my mind, do I need the chrome oxide strop, can I go straight to diamond? The Chrome oxide is about 45000 grit. Which is why I think people with ultra fine finishing stones dont see much of a benefit to stopping. If you have a 20k or 40k finishing stone. It does not matter much. however I'm going from 3000 grit on my final stone to 250,000 on my final strop. I felt I needed an intermediate step. I sadly took my wonderfully sharp chisel and took it back to a 1200 grit diamond plate finish. 
 <br>
 ![1200 grit back](/assets/images/stropping/23-backprediamond.png)
 
@@ -292,7 +293,7 @@ Next I decided to see if cheap chrome oxide vs my fancy paste made much differen
 
 ***
 
-The back before the Cheap compound.
+The back before the cheap compound.
 <br>
 ![before cheap chrome oxide bar strop](/assets/images/stropping/34-precheapback.png)
 
