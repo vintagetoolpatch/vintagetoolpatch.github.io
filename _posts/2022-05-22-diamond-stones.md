@@ -96,75 +96,75 @@ This and other tool diversions are archived at [https://blog.vintagetoolpatch.co
 
 <br>
 Atoma Diamond Stones are my personal favorite.
-![Atoma Stones](/assets/images/diamond/atomastones.jpg)
+![Atoma Stones](/assets/images/diamonds/atomastones.jpg)
 
 
 ***
 
 <br>
 The surface of an Atoma stone. The diamonds are placed in regular clusters creating channels for swarf to be carried away.
-![Atoma Surface](/assets/images/diamond/atomasurface.jpg)
+![Atoma Surface](/assets/images/diamonds/atomasurface.jpg)
 
 
 ***
 
 <br>
 A cheap 3000 grit diamond plate I'm using as a final stone. So far its working well, but I'm interested to see how well it wears, and how it deals with environmental changes. Total cost is only €5 including shipping.
-![3000 grit plate](/assets/images/diamond/cheapplate.jpg)
+![3000 grit plate](/assets/images/diamonds/cheapplate.jpg)
 
 ***
 
 <br>
 My Sharpening Tray. A 1200 grit Atoma Plate, Then a cheap 3000 grit plate, Then a chromium oxide strop, then a 0.1 micron diamond paste strop. Above, a Veritas honing guide with a cambered roller. A Veritas Guide with a standard roller and narrow blade adaptor. Angle setting jig for the veritas guides. Record honing guide for very cambered irons. An eraser for cleaning diamond plates. An adaptor for honing Vertias router irons. A spray bottle of car windscreen cleaner for lubricant, and a small ruler for the ruler trick. Normall there would be a 400 grit plate instead of the 3000 grit plate, but for most touch up sharpening I dont need it, so If the 3000 grit plate proves to be a keeper it will live in a drawer.
-![Sharpening Tray](/assets/images/diamond/tray.jpg)
+![Sharpening Tray](/assets/images/diamonds/tray.jpg)
 
 ***
 
 <br>
 Cleaning a diamond plate with an eraser (just a normal pencil eraser).
-![Diamond Eraser](/assets/images/diamond/diamonderaser.jpg)
+![Diamond Eraser](/assets/images/diamonds/diamonderaser.jpg)
 
 ***
 
 <br>
 Cheap diamond paddles. These are designed for knife sharpening jigs. I've found them very useful for spokeshave irons and drawknives. The coarser grits wear a lot faster than the EZE-Lap paddles.
-![Cheap diamond paddles](/assets/images/diamond/diamondpaddles.jpg)
+![Cheap diamond paddles](/assets/images/diamonds/diamondpaddles.jpg)
 
 ***
 
 <br>
 The DMT diamond wave, makes sharpening gouges pretty simple.
-![DMT Diamond Wave](/assets/images/diamond/dmtwave.jpg)
+![DMT Diamond Wave](/assets/images/diamonds/dmtwave.jpg)
 
 ***
 
 <br>
 The wave in use for both in-cannel and out-cannel gouges.
-![Diamond Wave in use](/assets/images/diamond/dmtwaveinuse.png)
+![Diamond Wave in use](/assets/images/diamonds/dmtwaveinuse.png)
 
 ***
 
 <br>
 The Fulton Diamond Curve. A double sided version of the wave with 2 grits.
-![Fulton Diamond Curve](/assets/images/diamond/doublesidedcurve.jpg)
+![Fulton Diamond Curve](/assets/images/diamonds/doublesidedcurve.jpg)
 
 ***
 
 <br>
 EZE lap paddles. Very flexible tools and very long lasting (except for the coarse and extra coarse).
-![EZE-lap paddles](/assets/images/diamond/eze-lappaddles.jpg)
+![EZE-lap paddles](/assets/images/diamonds/eze-lappaddles.jpg)
 
 ***
 
 <br>
 The Ruixin Pro Sharpening jig the cheap paddles are designed for. Its an OK jig, not as rigid as you would probably like, but I've used it to reset bevels on a variety of tricky tools. If Diamond is not your thing, they also sell waterstone paddles.
-![Ruixin Pro](/assets/images/diamond/ruixinjig.jpg)
+![Ruixin Pro](/assets/images/diamonds/ruixinjig.jpg)
 
 ***
 
 <br>
 My next not quite diamond experiment will probably be a CBN wheel for my grinder. They dont get smaller like a traditional wheel, so no need to adjust your jigs. Cut fast, stay cool, and on some models the large side surface can be used to do a flat grind. (all this is what I have heard, later in the year I hope to buy one and find out).
 
-![CBN Wheel](/assets/images/diamond/cbnwheel.jpg)
+![CBN Wheel](/assets/images/diamonds/cbnwheel.jpg)
 
 ***
