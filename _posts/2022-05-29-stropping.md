@@ -25,11 +25,7 @@ Below are 67 images where I dig in to try and answer these, but for those in a h
 4. Just a tiny bit
 5. Probably not, certainly should reload a little more often
 
-(If you are reading this shortly after I've uploaded the post, I'll still be adding text to the images, if you see one with no description, wait a little while, I'm busy typing) 
-
-
 This and other tool diversions are archived at [https://blog.vintagetoolpatch.com](https://blog.vintagetoolpatch.com). If you would like to write one, let me know!
-----------------------
 ***
 
 <br>
