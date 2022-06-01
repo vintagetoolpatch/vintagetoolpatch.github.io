@@ -54,39 +54,43 @@ Some useful links:
 
 A demonstration of the DMT Diamond Wave
 
-https://www.youtube.com/watch?v=2GsAKcjZMXU
+[https://www.youtube.com/watch?v=2GsAKcjZMXU](https://www.youtube.com/watch?v=2GsAKcjZMXU)
 
 Paul Sellers demonstrating sharpening a chisel on diamond stones
 
-https://www.youtube.com/watch?v=a6ykVzL2VAM&t=53s
+[https://www.youtube.com/watch?v=a6ykVzL2VAM&t=53s](https://www.youtube.com/watch?v=a6ykVzL2VAM&t=53s)
 
 Stumpy Nubs overview of the breaking in process
 
-https://www.youtube.com/watch?v=Hjq-iI1ZuQI
+[https://www.youtube.com/watch?v=Hjq-iI1ZuQI](https://www.youtube.com/watch?v=Hjq-iI1ZuQI)
 
 Paul Sellers on making a sharpening plate holder. I use a more complicated version as my movable sharpening station.
 
-https://www.youtube.com/watch?v=dVsfkVR9VmI
+[https://www.youtube.com/watch?v=dVsfkVR9VmI](https://www.youtube.com/watch?v=dVsfkVR9VmI)
 
 Rex Kreuger on using cheap diamond plates
 
-https://www.youtube.com/watch?v=f4BEQeW8cdo&t=4s
+[https://www.youtube.com/watch?v=f4BEQeW8cdo&t=4s](https://www.youtube.com/watch?v=f4BEQeW8cdo&t=4s)
+
 
 (I dont think scary sharp is dead, particularly when the papers go all the way to 1 micron)
 
 An overview of the EZE-Lap diamond paddles
 
-https://www.youtube.com/watch?v=UrHUDvzYGAQ
+[https://www.youtube.com/watch?v=UrHUDvzYGAQ](https://www.youtube.com/watch?v=UrHUDvzYGAQ)
+
 
 A source for cheap diamond plates
 
-https://www.aliexpress.com/item/1005002443085488.html
+[https://www.aliexpress.com/item/1005002443085488.html](https://www.aliexpress.com/item/1005002443085488.html)
+
 
 A source for cheap diamond paddles
 
-https://www.aliexpress.com/item/1005002711942706.html
+[https://www.aliexpress.com/item/1005002711942706.html](https://www.aliexpress.com/item/1005002711942706.html)
 
-This and other tool diversions are archived at https://blog.vintagetoolpatch.com , if you would like to write one, let me know!
+
+This and other tool diversions are archived at [https://blog.vintagetoolpatch.com](https://blog.vintagetoolpatch.com) , if you would like to write one, let me know!
 
 ***
 
