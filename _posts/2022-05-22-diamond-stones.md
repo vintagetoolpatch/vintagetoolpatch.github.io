@@ -146,7 +146,7 @@ The wave in use for both in-cannel and out-cannel gouges.
 
 <br>
 The Fulton Diamond Curve. A double sided version of the wave with 2 grits.
-![Fulton Diamond Curve](/assets/images/diamonds/doublesidedcurve.jpg)
+![Fulton Diamond Curve](/assets/images/diamonds/doubesidedcurve.jpg)
 
 ***
 
