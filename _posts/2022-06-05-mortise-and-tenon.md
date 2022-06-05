@@ -50,7 +50,8 @@ Spoon bits not only cut a clean mortise for a round tenon, but they also compres
 ***
 <br>
 
-Paying attention to your grain orientation during assembly will prevent tears later. See Jeff Lefkowitz’s excellent article to dig deeper on the topic - http://www.jefflefkowitzchairmaker.com/chairmakers-journal/boggs-side-chair-build-26-a-good-joint
+Paying attention to your grain orientation during assembly will prevent tears later. See Jeff Lefkowitz’s excellent article to dig deeper on the topic - [http://www.jefflefkowitzchairmaker.com/chairmakers-journal/boggs-side-chair-build-26-a-good-joint](http://www.jefflefkowitzchairmaker.com/chairmakers-journal/boggs-side-chair-build-26-a-good-joint)
+
 
 ![grain direction](/assets/images/mortise/graindirection.jpeg)
 
