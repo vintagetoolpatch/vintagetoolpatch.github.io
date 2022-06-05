@@ -43,7 +43,7 @@ This cutaway of a mortise and tenon by Elia Bizzarri ([https://handtoolwoodworki
 ***
 <br>
 
-Spoon bits not only cut a clean mortise for a round tenon, but they also compress fibers on the walls of the tenon, which is perfect when using a locking groove. The bits below are available from Gramercy Tools. https://toolsforworkingwood.com/store/item/GT-SB.XX
+Spoon bits not only cut a clean mortise for a round tenon, but they also compress fibers on the walls of the tenon, which is perfect when using a locking groove. The bits below are available from Gramercy Tools. [https://toolsforworkingwood.com/store/item/GT-SB.XX](https://toolsforworkingwood.com/store/item/GT-SB.XX)
 
 ![spoon bits](/assets/images/mortise/spoon.jpg)
 
