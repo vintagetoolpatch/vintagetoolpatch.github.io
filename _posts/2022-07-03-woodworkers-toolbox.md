@@ -28,7 +28,7 @@ My powder box, designed to hold 10 one-pound black powder cans.
 
 ### The Range Box
 
-I purchase this box to carry to the range with my muzzleloading rifle and pistol.  I love it!
+I purchased this box to carry to the range with my muzzleloading rifle and pistol.  I love it!
 
 ![Range Box](/assets/images/woodworkers-toolbox/range-box.jpeg)
 
