@@ -18,7 +18,7 @@ A slightly more robust ploughing plane, the No 044 also features a double arm ad
 
 ## Record 044C
 
-The 10 inch long 1970's version reminds me of a shark…but with a big tail that is the open cellulose acetate handle. It’s been around for 50 years so I guess that makes it vintage. Those buying a 044 or 044c or some cutters to go with one or the other should be aware that the cutters are different for the newer version, having a single notch on the side near the top. It also came with 10 of them.
+The 10 inch long 1970's version reminds me of a shark but with a big tail that is the open cellulose acetate handle. It’s been around for 50 years so I guess that makes it vintage. Those buying a 044 or 044c or some cutters to go with one or the other should be aware that the cutters are different for the newer version, having a single notch on the side near the top. It also came with 10 of them.
 
 ## Record 045c
 
