@@ -87,7 +87,7 @@ Laying out in the moxon. I've grown quite fond of my pinch dovetail markers. Let
 
 My lying eyes insisted this was a square cut. I have to check with a square every time. As is, if you mark out the pins with this tail there is no way the front of the tail will fit. 
 
-![Wonky Tail](/assets/images/dovetails/06-notsquare.jpg.jpg)
+![Wonky Tail](/assets/images/dovetails/06-notsquare.jpg)
 
 ***
 <br>
