@@ -177,7 +177,7 @@ Dealing with my lying eyes again. I've found that when I line up the chisel for 
 <br>
 
 
-![Final Chop](/assets/images/dovetails/36-toolset.jpg)
+![Final Chop](/assets/images/dovetails/36-chopping2.jpg)
 
 If you leave too much material when you are making the final chop, it forces the chisel back into your baseline, making it ragged and unsightly. Trhough trial and error I've settled on about 0.5 mm of waste left for the final chop as shown where the waste meets the ruler here. Again, reading glasses have made getting this down a lot easier.
 
