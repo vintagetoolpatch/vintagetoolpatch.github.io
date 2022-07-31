@@ -204,10 +204,10 @@ Aligning the board with the side of my chisel before transferring the tails to t
 ***
 <br>
 
+Ryan's beautiful marking knife comes into play. You really cant put enough effort into lining the boards up correctly here. Any error will be very obvious in the final result. When they are lined up, you need a good sharp marking knife, and reading glasses with a light help again. You can really see what the tip of your knife is doing in there. A light pass, a medium pass and a heavy pass and you should have nice clean knife lines to saw to. Keep pressure on the boards at all times. If the board slips while you are marking it out, its going to be hell, if not impossible to line them up exactly the same way again. One thing I did not take into account in my travel toolkit was what to rest the tailboard on while conducting this operation. I wound up stacking books and anything else reasonably flat that was to hand under my bench plane to get a support.
 
 ![Transferring](/assets/images/dovetails/40-sharpknife.jpg)
 
-Ryan's beautiful marking knife comes into play. You really cant put enough effort into lining the boards up correctly here. Any error will be very obvious in the final result. When they are lined up, you need a good sharp marking knife, and reading glasses with a light help again. You can really see what the tip of your knife is doing in there. A light pass, a medium pass and a heavy pass and you should have nice clean knife lines to saw to. Keep pressure on the boards at all times. If the board slips while you are marking it out, its going to be hell, if not impossible to line them up exactly the same way again. One thing I did not take into account in my travel toolkit was what to rest the tailboard on while conducting this operation. I wound up stacking books and anything else reasonably flat that was to hand under my bench plane to get a support.
 
 ***
 <br>
