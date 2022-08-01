@@ -140,7 +140,7 @@ A dedicated Mitre Shooting Board
 <br>
 Lie Nielsen Shooting Plane, very like the classic Stanley.
 
-![Lie Nielsen Shooting Plane](/assets/images/shootingboard/lienielsen.jpg)
+![Lie Nielsen Shooting Plane](/assets/images/shootingboard/lieneilsen.jpg)
 
 ***
 <br>
