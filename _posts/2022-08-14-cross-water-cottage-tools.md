@@ -156,7 +156,7 @@ A chamfer in progress.
 A mitre plane Chris Byrne is currently working on.
 
 
-![Mitre plane](/assets/images/crosswater/15.jpg)
+![Mitre plane](/assets/images/crosswater/15.jpeg)
 
 ***
 
