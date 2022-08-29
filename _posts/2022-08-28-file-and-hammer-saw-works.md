@@ -48,67 +48,67 @@ If you'd like to find out more about Jared's saw offerings or maybe wish to orde
 
 Top to bottom: tenon saw, crosscut saw, rip saw, and dovetail saw.
 
-![Four J. Greene Saws](/assets/images/saw-and-hammer-file-works/01.jpeg)
+![Four J. Greene Saws](/assets/images/file-and-hammer-saw-works/01.jpeg)
 
 ---
 
 Saws positioned right over my bench for easy access.
 
-![Saws Over Bench](/assets/images/saw-and-hammer-file-works/02.jpeg)
+![Saws Over Bench](/assets/images/file-and-hammer-saw-works/02.jpeg)
 
 ---
 
 The crosscut does great at trimming handle repairs before rasping/shaping.
 
-![Crosscutting a Plane Handle](/assets/images/saw-and-hammer-file-works/03.jpeg)
+![Crosscutting a Plane Handle](/assets/images/file-and-hammer-saw-works/03.jpeg)
 
 ---
 
 Dovetails are fun!
 
-![Cutting Dovetails](/assets/images/saw-and-hammer-file-works/04.jpeg)
+![Cutting Dovetails](/assets/images/file-and-hammer-saw-works/04.jpeg)
 
 ---
 
 Oh no, my tenon saw took a fall!
 
-![A Broken Horn](/assets/images/saw-and-hammer-file-works/05.jpeg)
+![A Broken Horn](/assets/images/file-and-hammer-saw-works/05.jpeg)
 
 ---
 
 Not an invisible repair, but it glued up well with clear super glue.
 
-![Horn Repair Top View](/assets/images/saw-and-hammer-file-works/06.jpeg)
+![Horn Repair Top View](/assets/images/file-and-hammer-saw-works/06.jpeg)
 
 ---
 
 The repair had a much tighter fit on the underside.
 
-![Horn Repair Bottom View](/assets/images/saw-and-hammer-file-works/07.jpeg)
+![Horn Repair Bottom View](/assets/images/file-and-hammer-saw-works/07.jpeg)
 
 ---
 
 Wide rip cuts are no problem for the tenon saw.
 
-![Wide Rip Cuts](/assets/images/saw-and-hammer-file-works/08.jpeg)
+![Wide Rip Cuts](/assets/images/file-and-hammer-saw-works/08.jpeg)
 
 ---
 
 Mitered dovetails with the dovetail and crosscut saws.
 
-![Mitered Dovetails](/assets/images/saw-and-hammer-file-works/09.jpeg)
+![Mitered Dovetails](/assets/images/file-and-hammer-saw-works/09.jpeg)
 
 ---
 
 Crosscutting stopped dados for a chisel rack. No one will ever see the overcut.
 
-![Cutting a Chisel Rack](/assets/images/saw-and-hammer-file-works/10.jpeg)
+![Cutting a Chisel Rack](/assets/images/file-and-hammer-saw-works/10.jpeg)
 
 ---
 
 Test fitting a chisel rack.
 
-![Fitting a Chisel Rack](/assets/images/saw-and-hammer-file-works/11.jpeg)
+![Fitting a Chisel Rack](/assets/images/file-and-hammer-saw-works/11.jpeg)
 
 [1]: https://www.facebook.com/jared.greene.9887
 [2]: https://www.jgreenesaws.com
