@@ -92,6 +92,7 @@ Once the glue was dry and I flattened the board. I used this big ole bow saw to 
 This is how close to the line I got on my first attempt. Yip, I was nervous, later stools I was within a few mm of the line once I had a bit of confidence. 
 
 ![After bowsaw](/assets/images/stool/03-afterbowsaw.jpg)
+
 ***
 
 <br>
@@ -102,6 +103,7 @@ A standard flat soled spokeshave did the job.
 
 
 ![Concave spokeshave](/assets/images/stool/04-spokeshave.jpg)
+
 ***
 
 <br>
@@ -109,6 +111,7 @@ A standard flat soled spokeshave did the job.
 The seat after initial saddling and rounding over.
 
 ![saddled and rounded](/assets/images/stool/05-roundandsaddle.jpg)
+
 ***
 
 <br>
@@ -141,6 +144,7 @@ Initial tapering on 4 sides. I started off using a Paul sellers style clamp in m
 
 
 ![initial tapering](/assets/images/stool/09-tapered.jpg)
+
 ***
 
 <br>
@@ -148,6 +152,7 @@ Initial tapering on 4 sides. I started off using a Paul sellers style clamp in m
 A tapered octagonal leg.  You can see the Veritas tenon cutter I used to its left, as well as the little vice clamping jig.
 
 ![tapered octagonal leg](/assets/images/stool/10-tapered.jpg)
+
 ***
 
 <br>
@@ -155,6 +160,7 @@ A tapered octagonal leg.  You can see the Veritas tenon cutter I used to its lef
 Laying out an octagon. I carried the corners all the way down the portaion of the leg that would be the tenon, easy to lose these marks otherwise.
 
 ![octagon layout](/assets/images/stool/11-octogon.jpg)
+
 ***
 
 <br>
@@ -162,6 +168,7 @@ Laying out an octagon. I carried the corners all the way down the portaion of th
 My eventual clamping solution. I made a moxon vice where the front jaws have oval holes. It can cope with very tapered pieces easily.
 
 ![Moxon](/assets/images/stool/12-moxon.jpg)
+
 ***
 
 <br>
@@ -170,6 +177,7 @@ My eventual clamping solution. I made a moxon vice where the front jaws have ova
 My Alan Williams travisher. A fine tool and a joy to use. This is used to really tune in the shape of the seat saddling. 
 
 ![Travisher](/assets/images/stool/13-travisher.jpg)
+
 ***
 
 <br>
@@ -201,6 +209,7 @@ Chopping out waste from the walnut blank with the Adze.
 The same blank after being refined with the Scorp. This is a Ray Isles.
 
 ![Scopr](/assets/images/stool/17-adze.jpg)
+
 ***
 
 <br>
@@ -216,6 +225,7 @@ Out comes the bowsaw again, a lot closer to the line this time.
 The walnut blank after sawing.
 
 ![Walnut sawn](/assets/images/stool/19-bowsaw.jpg)
+
 ***
 
 <br>
@@ -223,6 +233,7 @@ The walnut blank after sawing.
 Cleaning up the perimiter with a flat bottomed spokeshave.
 
 ![spokeshave](/assets/images/stool/20-spokeshave.jpg)
+
 ***
 
 <br>
@@ -246,6 +257,7 @@ The walnut seat after initial saddling and rounding. I do not recommend wood wit
 A nearly finished leg (tenon needs some finishing work).
 
 ![Leg](/assets/images/stool/23-leg.jpg)
+
 ***
 
 <br>
@@ -253,6 +265,7 @@ A nearly finished leg (tenon needs some finishing work).
 A drilled seat. You can see my layout marks and sight lines.  The many faint lines running the the center are where I lost my center mark and used a center finder to pick a new one (the seat is not perfectly circular, so I struck many lines to pick the center).
 
 ![Sightlines](/assets/images/stool/24-sightlines.jpg)
+
 ***
 
 <br>
@@ -276,6 +289,7 @@ Beveling the underside. The pine seat was the only one where the draw knife was 
 The fine modelers rasp I used on the leg to tenon transition
 
 ![Rasp](/assets/images/stool/27-finerasp.jpg)
+
 ***
 
 <br>
@@ -283,6 +297,7 @@ The fine modelers rasp I used on the leg to tenon transition
 My reaming set up. Patience is key here. Ream a little, check, ream a little check. You can do repeated half turns in the direction you need the leg to move to correct. You can see the blue tape I used to make sure I put the right leg back in the right hole (and facing in the right direction).
 
 ![Reaming](/assets/images/stool/28-reaming.jpg)
+
 ***
 
 <br>
@@ -298,6 +313,7 @@ Layout marks for drilling on the maple seat.
 The first wedge goes in. You can see I've moved my blue tape markers for the legs to the top, as I cleaned up the bottom with a plane before gluing the legs in. Its kinda tricky to clean up once the legs are there....
 
 ![Wedging](/assets/images/stool/30-wedging.jpg)
+
 ***
 
 <br>
@@ -313,6 +329,7 @@ The ginal glue up. I used my tail track anvil to provide a little weight, its si
 The finished stool. I'm reliably informed by every skilled chair making that sees it that it could do with stretchers. They are probably right. It takes my weight standing on it, its survived a 4 year old for over a month now. But at one point my son wanted to show the stool to his uncle after it was glued up, but before finishing. I got it back in 2 pieces with the seat split in two. Stretchers probably would have prevented that. I'm pretty happy with my repair though. 
 
 ![Finished Stool](/assets/images/stool/32.jpg)
+
 ***
 
 <br>
