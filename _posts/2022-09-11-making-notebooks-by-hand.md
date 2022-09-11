@@ -87,7 +87,7 @@ Your text block is now complete!
 
 ### Covering the Text Block
 
-Your text block can be used as-is, but it's not very nice looking.  A nice hardcover is relatively easy to do in just an hour or two.  I use duck canvas from the fabric store (a yard of canvas will cover 12 notebooks), but you can use a canvas tarp, old jeans, or any other sturdy fabric you have on hand.  Again, for those who prefer a video approach check out [Hardcover Book Binding][2].  As a note, I don't bother with a spine on my notebooks.
+Your text block can be used as-is, but it's not very nice looking.  A nice hardcover is relatively easy to do in just an hour or two.  I use duck canvas from the fabric store (a yard of canvas will cover 12 notebooks), but you can use a canvas tarp, old jeans, or any other sturdy fabric you have on hand.  Again, for those who prefer a video approach check out [Hardcover Book Binding][2].  As a note, I don't bother with a hard spine on my notebooks, just use the two cover boards.
 
 1. The book cover itself can be anything that's stiff enough to feel like a hardcover.  I use hardboard, but you can use thin plywood, or buy book board.  In a pinch, you can even glue two layers of cardboard from a box, alternating the direction of the corrugations.  Cut these to overhang your text block by 1/8" on the top bottom and right side.
 
