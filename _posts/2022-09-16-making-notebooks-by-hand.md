@@ -39,7 +39,7 @@ The process is in two parts, first you make a text block, then you cover the tex
 
 If you're a video learner or want to get a handle on the basics, now would be a good time to watch [Making a Text Block][1].  My steps below differ only slightly from the video.  The biggest difference is that I sew the end pages to the text block instead of relying strictly on gluing them.
 
-1. Gather 40 sheets of paper.  Forty sheets of paper makes a 160 page notebook, counting the front and back of each page like numbering the pages in a book.  I use 28 pound color paper that's a thicker than normal printer paper. The paper I link above is also short-grained, which means the direction of the grain is parallel to the short edge.  This is preferrable, though not necessary.  Basically paper wrinkles across the endgrain.  If you have long-grained paper and fold it in half, it can wrinkle along the spine when you glue it.  Don't sweat any of this if you're making your first notebook; use what you got!
+1. Gather 40 sheets of paper.  Forty sheets of paper makes a 160 page notebook, counting the front and back of each page like numbering the pages in a book.  I use 28 pound color paper that's a thicker than normal printer paper. The paper I link above is also short-grained, which means the direction of the grain is parallel to the short edge.  This is preferable, though not necessary.  Basically paper wrinkles across the endgrain.  If you have long-grained paper and fold it in half, it can wrinkle along the spine when you glue it.  Don't sweat any of this if you're making your first notebook; use what you got!
 
 ![Paper](/assets/images/making-notebooks/01-paper.jpeg)
 
