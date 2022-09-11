@@ -41,7 +41,7 @@ If you're a video learner or want to get a handle on the basics, now would be a 
 
 1. Gather 40 sheets of paper.  Forty sheets of paper makes a 160 page notebook, counting the front and back of each page like numbering the pages in a book.  I use 28 pound color paper that's a thicker than normal printer paper. The paper I link above is also short-grained, which means the direction of the grain is parallel to the short edge.  This is preferable, though not necessary.  Basically paper wrinkles across the endgrain.  If you have long-grained paper and fold it in half, it can wrinkle along the spine when you glue it.  Don't sweat any of this if you're making your first notebook; use what you got!
 
-![Paper](/assets/images/making-notebooks/01-paper.jpeg)
+    ![Paper](/assets/images/making-notebooks/01-paper.jpeg)
 
 2. Fold the 40 sheets of paper in half.  Run a bone folder or screwdriver over both sides of the fold to make the fold sharp and crisp.
 
@@ -51,33 +51,33 @@ If you're a video learner or want to get a handle on the basics, now would be a 
 
 5. Stack everything together, then draw five pencil lines equally spaced across the spine.  These lines will be the marks where you punch holes.
 
-![Marking the End Pages and Registers](/assets/images/making-notebooks/03-marking.jpeg)
+    ![Marking the End Pages and Registers](/assets/images/making-notebooks/03-marking.jpeg)
 
 6. Take your awl and poke a hole at each mark going through all the pages in the register.  Do this for all 10 registers and both end pages.  Make sure to do the hole poking over a mat or scrap board so you don't mar your work surface with a bunch of awl holes.
 
-![Punching the End Pages and Registers](/assets/images/making-notebooks/04-punching.jpeg)
+    ![Punching the End Pages and Registers](/assets/images/making-notebooks/04-punching.jpeg)
 
 7. Prepare your needle and thread.  Don't worry about the length as you can easily tie off a string and start a new one, I usually start with about two arm lengths of thread.  Then I thread my needle, tie a knot at the end.  Put the knot end of the thread on a piece of wax and press your thumb against it.  Pull the thread through, keeping the thread against the wax with your thumb.  Repeat this three or four times.  Congratulations, you now have waxed thread!  Waxed thread is less likely to slip or come apart.
 
-![Waxing your Thread](/assets/images/making-notebooks/02-folding.jpeg)
+    ![Waxing your Thread](/assets/images/making-notebooks/02-folding.jpeg)
 
 8. Now it's time to sew it up!  This is where video helps tremendously.  Again, if you haven't watched [Making a Text Block][1], follow the steps for sewing there.  My summary is as follows: snake your thread through and back your bottom/back end page.  This is the anchor for future pages.  Now sew into and out of the first and second hole in one of the registers.  Loop your needle around the threads for the end page below, and then back through the second hole.  Go through the third hole, around the threads of the end page, and again back through the third hole.  The objective is to sew the first register to the end page.  Once you're done with the first register, loop through the thread coming out of the last hole on the end page, then start sewing your next register going in the opposite direction.  Each time the needle comes out of the register, loop it around the thread in the register below, and back in.  Repeat the process to sew up your text block, and the front end page.  When you run out of thread, tie it off where you loop around the previous register, then tie a new thread at that point and get right back to sewing.
 
-![Sewing the Text Block](/assets/images/making-notebooks/05-sewing.jpeg)
+    ![Sewing the Text Block](/assets/images/making-notebooks/05-sewing.jpeg)
 
-You should now have something like this:
+    You should now have something like this:
 
-![Sewn Text Block](/assets/images/making-notebooks/06-sewn-text-block.jpeg)
+    ![Sewn Text Block](/assets/images/making-notebooks/06-sewn-text-block.jpeg)
 
 9. Stack some heavy stuff (other books) on your text block to compress the folds, or use scrap boards and clamps to hold the spine closed.  I use a wooden clamp (or two) here.  Brush a thin layer of flexible glue along the spine and let it dry.  Your glue needs to dry flexible or opening the spine will cause it to crack and fail.  Brush three light coats on in total, allowing it to dry at least 45 minutes between coats.  If you brush too much glue on or rush it at this point the paper will soak up too much moisture and wrinkle.
 
-![Glue the Spine](/assets/images/making-notebooks/07-gluing-the-spine.jpeg)
+    ![Glue the Spine](/assets/images/making-notebooks/07-gluing-the-spine.jpeg)
 
 10.  To add some support to your text block, take a half sheet of paper and wrap it tightly around the spine.  Use your brush and glue to glue it in place, this works to keep your text block and stitching together.  Keep this clamped or under weight for at least an hour while the glue dries.
 
 11. It's time to plane your text block!  Because it was folded together the ends of the block are going to be uneven.  Stick the block between two boards with just the part you want to plane off sticking out.  I do this in my bench vise with scrap pine.  Now plane everything flush!  It's just like planing a board, but you need an extra sharp iron (one that literally will cut paper).  If your iron isn't sharp, it'll just catch and tear the pages creating a mess.
 
-![Planing the Text Block](/assets/images/making-notebooks/08-planing.jpeg)
+    ![Planing the Text Block](/assets/images/making-notebooks/08-planing.jpeg)
 
 If you don't have a hand plane, you can get by with using a box cutter or x-acto type knife.  The result is a less perfect edge, but still acceptable.  Early bookbinding planes advanced a knife across the edge of the paper, slicing off just a few pages at a time.  Again, as long as your razor/knife is sharp, you should be okay.
 
@@ -91,13 +91,13 @@ Your text block can be used as-is, but it's not very nice looking.  A nice hardc
 
 1. The book cover itself can be anything that's stiff enough to feel like a hardcover.  I use hardboard, but you can use thin plywood, or buy book board.  In a pinch, you can even glue two layers of cardboard from a box, alternating the direction of the corrugations.  Cut these to overhang your text block by 1/8" on the top bottom and right side.
 
-![Cover Boards](/assets/images/making-notebooks/10-cover-boards.jpeg)
+    ![Cover Boards](/assets/images/making-notebooks/10-cover-boards.jpeg)
 
 2. Iron your cloth.  If you don't have an iron, a large pot of boiling water works.  You can steam the fabric over the pot, then press the steamed fabric under the weight of the pot on your counter.
 
 3. Lay your cloth flat, then stick the spine of the board with your covers on the cloth.  Gently rotate the covers down leaving a gap the thickness of your cover board between the spine of the book and the cover.  Trim your canvas leaving about 1 inch on all sides of the cover boards.
 
-![Sizing the Canvas](/assets/images/making-notebooks/11-canvas.jpeg)
+    ![Sizing the Canvas](/assets/images/making-notebooks/11-canvas.jpeg)
 
 4. Mark the locations of the cover boards (chalk works well). and glue the cover boards to your cloth.  Tighly fold over the ends of the cloth and glue those down as well.  Again, watching [the video][2] yields some tips for how to better fold over the edges without too much overlap.
 
@@ -105,7 +105,7 @@ Your text block can be used as-is, but it's not very nice looking.  A nice hardc
 
 6. Close your book up and put some weight on it again until the glue on the end pages dries.  This can take a couple hours to overnight since there's not a lot of airflow, and you don't want to take the weight off until the moisture is gone or you may end up with wrinkled pages.
 
-![Complete Notebook](/assets/images/making-notebooks/12-complete-notebook.jpeg)
+    ![Complete Notebook](/assets/images/making-notebooks/12-complete-notebook.jpeg)
 
 ## Other Embellishments
 
