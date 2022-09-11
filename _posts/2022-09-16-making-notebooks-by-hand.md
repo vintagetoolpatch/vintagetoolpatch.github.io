@@ -105,7 +105,7 @@ Your text block can be used as-is, but it's not very nice looking.  A nice hardc
 
 6. Close your book up and put some weight on it again until the glue on the end pages dries.  This can take a couple hours to overnight since there's not a lot of airflow, and you don't want to take the weight off until the moisture is gone or you may end up with wrinkled pages.
 
-![Complete Notebook]((/assets/images/making-notebooks/12-complete-notebook.jpeg)
+![Complete Notebook](/assets/images/making-notebooks/12-complete-notebook.jpeg)
 
 ## Other Embellishments
 
