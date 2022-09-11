@@ -45,7 +45,7 @@ If you're a video learner or want to get a handle on the basics, now would be a 
 
 2. Fold the 40 sheets of paper in half.  Run a bone folder or screwdriver over both sides of the fold to make the fold sharp and crisp.
 
-3. Take 4 folded sheets of paper and slip them inside each other to create a stack.  This stack is called a register.  You'll make 10 registers from your 40 folded sheets.
+3. Take 4 folded sheets of paper and slip them inside each other to create a stack.  This stack is called a signature.  You'll make 10 signatures from your 40 folded sheets.
 
 4. Fold two colored sheets to be your end pages.
 
@@ -53,7 +53,7 @@ If you're a video learner or want to get a handle on the basics, now would be a 
 
     ![Marking the End Pages and Registers](/assets/images/making-notebooks/03-marking.jpeg)
 
-6. Take your awl and poke a hole at each mark going through all the pages in the register.  Do this for all 10 registers and both end pages.  Make sure to do the hole poking over a mat or scrap board so you don't mar your work surface with a bunch of awl holes.
+6. Take your awl and poke a hole at each mark going through all the pages in the signature.  Do this for all 10 signatures and both end pages.  Make sure to do the hole poking over a mat or scrap board so you don't mar your work surface with a bunch of awl holes.
 
     ![Punching the End Pages and Registers](/assets/images/making-notebooks/04-punching.jpeg)
 
@@ -61,7 +61,7 @@ If you're a video learner or want to get a handle on the basics, now would be a 
 
     ![Waxing your Thread](/assets/images/making-notebooks/02-folding.jpeg)
 
-8. Now it's time to sew it up!  This is where video helps tremendously.  Again, if you haven't watched [Making a Text Block][1], follow the steps for sewing there.  My summary is as follows: snake your thread through and back your bottom/back end page.  This is the anchor for future pages.  Now sew into and out of the first and second hole in one of the registers.  Loop your needle around the threads for the end page below, and then back through the second hole.  Go through the third hole, around the threads of the end page, and again back through the third hole.  The objective is to sew the first register to the end page.  Once you're done with the first register, loop through the thread coming out of the last hole on the end page, then start sewing your next register going in the opposite direction.  Each time the needle comes out of the register, loop it around the thread in the register below, and back in.  Repeat the process to sew up your text block, and the front end page.  When you run out of thread, tie it off where you loop around the previous register, then tie a new thread at that point and get right back to sewing.
+8. Now it's time to sew it up!  This is where video helps tremendously.  Again, if you haven't watched [Making a Text Block][1], follow the steps for sewing there.  My summary is as follows: snake your thread through and back your bottom/back end page.  This is the anchor for future pages.  Now sew into and out of the first and second hole in one of the signatures.  Loop your needle around the threads for the end page below, and then back through the second hole.  Go through the third hole, around the threads of the end page, and again back through the third hole.  The objective is to sew the first signature to the end page.  Once you're done with the first signature, loop through the thread coming out of the last hole on the end page, then start sewing your next signature going in the opposite direction.  Each time the needle comes out of the signature, loop it around the thread in the signature below, and back in.  Repeat the process to sew up your text block, and the front end page.  When you run out of thread, tie it off where you loop around the previous signature, then tie a new thread at that point and get right back to sewing.
 
     ![Sewing the Text Block](/assets/images/making-notebooks/05-sewing.jpeg)
 
@@ -111,7 +111,7 @@ Your text block can be used as-is, but it's not very nice looking.  A nice hardc
 
 In addition to a basic notebook, you might consider a few upgrades!
 
-* Glue a bookmark ribbon to the spine as you glue the ends of the registers together.
+* Glue a bookmark ribbon to the spine as you glue the ends of the signatures together.
 * Instead of cloth, you can use thin planks of hardwood for covers.  You can glue the end pages directly to the boards.  Finish the outside and edges of the boards before you glue them on, but don't finish the inside to allow the glue to bind.
 * An elastic band to hold your notebook closed.  Either sew it to the back like a Moleskine notebook, or have a removable band.
 * A pencil, eraser, and/or pen can be held in place via [a pen loop][5].
