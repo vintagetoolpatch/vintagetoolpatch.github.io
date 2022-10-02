@@ -34,7 +34,7 @@ These are a little more awkward to sharpen than pin gauges, as you need to remov
 
 ![Veritas Mortise Gauge](/assets/images/marking/veritas.jpg)
 
-Next up, the knife gauges. As the name suggests, they hold a knife like cutter rather than a pin or a wheel. Knife gauges work pretty much like wheel gauges. Their biggest advantage is the exact knife point. If you want to stop and start in a specific spot, this is the gauge for you. Depending on the size of the cutter, they can be a little trickier to sharpen if they are small, but not especially challenging. I have 2 vintage models in my collection. The one below has the cutter held in with a small wedge, and like my other vintage example, the mortise for the cutter is a little worn, making it difficult to keep it perfectly vertical. It will be a small job to fix up when I get around to it, but vintage examples are often not ready to use when received. 
+Lets take a look at knife gauges. As the name suggests, they hold a knife like cutter rather than a pin or a wheel. Knife gauges work pretty much like wheel gauges. Their biggest advantage is the exact knife point. If you want to stop and start in a specific spot, this is the gauge for you. Depending on the size of the cutter, they can be a little trickier to sharpen if they are small, but not especially challenging. I have 2 vintage models in my collection. The one below has the cutter held in with a small wedge, and like my other vintage example, the mortise for the cutter is a little worn, making it difficult to keep it perfectly vertical. It will be a small job to fix up when I get around to it, but vintage examples are often not ready to use when received. 
 
 ![Vintage Knife Gauge](/assets/images/marking/vintageknife.jpg)
 
@@ -43,7 +43,7 @@ Now we have covered the basic types, lets look at some variations. What if you n
 
 ![Panel Gauge](/assets/images/marking/panel.jpg)
 
-Next up we have this odd modern gauge. One end of the beam has a standard wheel cutter, the other end has a clamping mechanism that can hold a pin, pen or pencil. The head can be removed or flipped around to use either end. The really useful feature to me are the two rollers on the end, when the head is turned to use the roller end, the two rollers make it possible to follow a curved edge and lay out a line a consistent distance from the curve. I used this a lot when laying out lines for the bevels on my stool seats. You can upgrade a standard pin gauge to do the same job by sawing some small lengths of dowel in two and glueing them to the head.
+There are a wide range of modern marking gauge makers. This is one of my odder but quite useful ones. One end of the beam has a standard wheel cutter, the other end has a clamping mechanism that can hold a pin, pen or pencil. The head can be removed or flipped around to use either end. The really useful feature to me are the two rollers on the end, when the head is turned to use the roller end, the two rollers make it possible to follow a curved edge and lay out a line a consistent distance from the curve. I used this a lot when laying out lines for the bevels on my stool seats. You can upgrade a standard pin gauge to do the same job by sawing some small lengths of dowel in two and glueing them to the head.
 
 ![Curve Gauge](/assets/images/marking/curved.jpg)
 
