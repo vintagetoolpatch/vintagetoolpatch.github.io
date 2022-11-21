@@ -1,6 +1,6 @@
 ---
 layout: post
-author: seanodonnell
+author: ryanpowell
 title:  "Making a Record 043 Depth Stop"
 ---
 
@@ -54,6 +54,6 @@ The next day I tried a new way, using silver solder to join the rod to the alrea
 ![Soldering](/assets/images/record-043-depth-stop/17-soldering.jpg)
 ![More Lapping](/assets/images/record-043-depth-stop/18-more-lapping.jpg)
 
-It wasn't until I was done and comparing the fit to the original that I noticed how un-flat the normal depth stop is.  The original also wiggles and flexes quite a bit.  Both of the new stops seem to be a good bit more stable, but it doesn't make one lick of a different in use!
+It wasn't until I was done and comparing the fit to the original that I noticed how un-flat the normal depth stop is.  The original also wiggles and flexes quite a bit.  All of the new stops seem to be a good bit more stable, but it doesn't make one lick of a different in use!
 
-With both the rosewood fence and brass depth stop, I now have one good looking Record 043!
+With the rosewood fence, slotted brass screws, and brass depth stop, I now have one good looking Record 043!
