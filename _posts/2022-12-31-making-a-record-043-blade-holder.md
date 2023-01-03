@@ -50,40 +50,42 @@ To file at all different angles, I did some creative clamping. A rat tail file t
 
 Here’s where we’re at with fit. For silver solder you want a visible
 
+![Test fit before silver solder](/assets/images/record-043-blade-holder/06-test-fit.jpeg)
+
 ### Silver Soldering
 
 All soldered up. You can see the blade holder and screw. A little silver solder goes a long way. Your flux does all the work.  I used high-temp black flux because it's really easy to overheat these tiny parts.
 
-![Blade holder on top of a brick held with pliers](/assets/images/record-043-blade-holder/06-silver-solder.jpeg)
+![Blade holder on top of a brick held with pliers](/assets/images/record-043-blade-holder/07-silver-solder.jpeg)
 
 Just gravity, pliers, and a clamp for holding.
 
-![Close up of the soldered joint between the two parts](/assets/record-043-blade-holder/07-silver-solder-joint.jpeg)
+![Close up of the soldered joint between the two parts](/assets/images/record-043-blade-holder/08-silver-solder-joint.jpeg)
 
 ### More Filing
 
 After some filing to bring it down to final dimensions.
 
-![Part after filing and chamfering](/assets/images/fixing-dovetails/08-filing-and-cleanup.jpg)
+![Part after filing and chamfering](/assets/images/record-043-blade-holder/09-filing-and-cleanup.jpeg)
 
 
 ### Tapping for the Thumb Screw
 
 The back is tapped #8-32. If I were to do this again, old move the hole slightly to the left in this image.
 
-![Tapping for the thumb screw](/assets/images/record-043-blade-holder/09-tapping.jpeg)
+![Tapping for the thumb screw](/assets/images/record-043-blade-holder/10-tapping.jpeg)
 
 ### Comparing to the Original
 
 The side-by-side with an original part looks pretty good!  We're a hair longer, but that won't matter.
 
-![Replacement part above the original](/assets/images/record-043-blade-holder/10-side-by-side.jpeg)
+![Replacement part above the original](/assets/images/record-043-blade-holder/11-side-by-side.jpeg)
 
 A hair less wide, but this should be even less fragile that the cast original.
 
-![Top-down view of both the replacement and original blade holder](/assets/images/record-043-blade-holder/11-top-view.jpeg)
+![Top-down view of both the replacement and original blade holder](/assets/images/record-043-blade-holder/12-top-view.jpeg)
 
 Note the screw placement. The original is slightly more to the right, but this works.
 
-![Underside of both blade holders showing the placement of the thumb screw](/assets/images/record-043-blade-holder/12-underside.jpeg)
+![Underside of both blade holders showing the placement of the thumb screw](/assets/images/record-043-blade-holder/13-underside.jpeg)
 
