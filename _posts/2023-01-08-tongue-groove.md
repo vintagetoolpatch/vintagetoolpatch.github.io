@@ -4,7 +4,7 @@ author: seanodonnell
 title:  "Tongue & Groove with the Stanley 45"
 ---
 
-I need some 3/8th inch tongue and groove boards for the back of my mini tool chest. The problem is, I have a Stanley 45, but Stanley never made a 1/8th inch tongue cutter for the 45.... I decided to take a chance and ordered the 1/8th inch tongue cutter for the Veritas small plough plane.
+I need some 3/8th inch tongue and groove boards for the back of my mini tool chest. I found my 45 here in Ireland a few years ago, spent a lot of time cleaning it up, and then in its box it sat. Only in the last few months have I actually taken it to wood.  Now my problem is that Stanley never made a 1/8th inch tongue cutter for the 45.... I decided to take a chance and ordered the 1/8th inch tongue cutter for the Veritas small plough plane.
 
 
 ![Veritas Cutter](/assets/images/tg/01.jpg)
