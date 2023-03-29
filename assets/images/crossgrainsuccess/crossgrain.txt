@@ -1,0 +1,28 @@
+AUCTION COUNTDOWN CLOCK
+
+This weekends auction will end at 11 pm on Sunday the 12th of March.
+
+I believe the clocks are changing for our friends in the US this week, so you might want to double check when the auction is ending for your timezone.
+
+A countdown clock can be found at
+
+https://www.vintagetoolpatch.com/
+
+That takes the work out of doing timezone math. Please note, your Facebook comment timestamp is the ultimate authority on valid bids. Valid bids must have a timestamp of BEFORE 11pm on the last day of the auction.
+
+This weeks diversion:
+
+
+Cross Grain Rebate Success
+
+After several attempts I'm finally reliably creating cross grain rebates with a decent surface. My saviour has been the Stanley 46. Once I took the time to set up a few irons. It pretty much just works.
+
+The design of the slitter for the 46 is far superior to the Stanley 45 and the record 778. You can move the slitter up and down in a small slot before fixing it with screw. That allows you to just sharpen it and then fix it to the desired depth. No work grinding it down to a sane height as you have to do with the 45 and 778. One small niggle is that I found there was a sweet spot for tightness on my 46, turn it a little more, and the slitter slips on the screw and goes loose. It could just be my plane, but both slitters on both sides had that problem.
+
+Secondly I can retract the slitter without having to reset the plane. On the 45 and 778 I had to raise the depth stop to retract the slitter. With the 46 I can loosen the sliding section of the body, bring it back to the fence, and have enough space to loosen and move it with a small screwdriver. This makes it far more likely the depth of different rebates will meet and match if you are working around the edge of a board.
+
+Last but not least, its a skew plane. The fact that this results in less tear out confuses me. As I understand it, skewing the plane reduces the effective cutting angle, which to my mind, should increase the amount of tear out...  But it also changes the cutting action to more of a slice. I can only assume the slicing action is more important than the cutting angle. As this plane leaves behind a very clean surface on wood the 45 and 778 tear apart. 
+
+ An important detail when sharpening these irons to to make sure you get the inside corner completely sharp, and don't have a little chip missing from the point at the corner. If you do, it will start stepping the edge of your rebate, or mysteriously stop cutting entirely. I dinged the corner of the first Iron I was using without realising it, and was very confused as to why I suddenly couldn't get a good rebate anymore.
+
+ So that is where I'm leaving things for rebates. I'm happy with the lid for my little tool chest. So it's own to fitting hardware and dust seals. 
