@@ -13,7 +13,7 @@ I put my tool together in about an hour on a whim, so I don't have my usually bl
 The good news is, it works well, and it made leveling the last stool I made a much quicker more pleasant process.
 
 
-![Stool Scriber](/assets/images/scriber/fatboy.jpg)
+![Stool Scriber](/assets/images/scriber/fat-boy.jpg)
 
 The Fat Boy Scriber from Tooley Park Furniture ([https://tooleypark.com/shop/uncategorized/fatboy/](https://tooleypark.com/shop/uncategorized/fatboy/)), and awesome little tool, which I have shamelessly ripped off.
 
