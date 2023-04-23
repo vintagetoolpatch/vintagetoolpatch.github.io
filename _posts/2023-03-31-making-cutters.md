@@ -28,7 +28,7 @@ Tools:
 
 ## 1. Cut the Flat Bar
 
-Use the hacksaw to cut the irons in 3 to 3.5 inch lenghts from your flat bar.  Use some coarse sandpaper (220 grit or lower) to remove any bur left when cutting.
+Use the hacksaw to cut the irons in 3 to 3.5 inch lengths from your flat bar.  Use some coarse sandpaper (220 grit or lower) to remove any burr left when cutting.
 
 ![Cutting](/assets/images/making-cutters/cutting.jpeg)
 
@@ -36,7 +36,7 @@ I opted to go with widths of 1/8", 1/4", 3/8", and 1/2" because that's what I co
 
 ## 2. Shape the Cutter
 
-Before you harden your iron, it's helpful to put a primary bevel on it.  This needn't be exact, anything less than 45 degrees will work.  I used a Tormek to put about a 35 degree angle on the iron, but you can do this with sandpaper and a honing jib, a file, or by hand using a dressing stone.  The important thing is to do this work now while the steel is soft!
+Before you harden your iron, it's helpful to put a primary bevel on it.  This needn't be exact, anything less than 45 degrees will work.  I used a Tormek to put about a 35 degree angle on the iron, but you can do this with sandpaper and a honing jig, a file, or by hand using a dressing stone.  The important thing is to do this work now while the steel is soft!
 
 One note here is that the angle really doesn't matter that much.  About the only change is that the closer you get to 45 degrees, the more durable the edge, but it makes no difference on cutting action.  I went with 35 degrees, and bulked out the shaping on a Tormek.
 
@@ -44,7 +44,7 @@ One note here is that the angle really doesn't matter that much.  About the only
 
 ## 3. Harden the Steel
 
-While simple, this is the most dangerous part.  Think through safety problems before they happen.  Hot oil can quickly cause burns severe enough to need to go to the hospital or you can start a pretty big fire.  Oil will burst into flames at is flash point if it gets too hot.  Use a container that can withstand direct flame (a metal paint can or canning jar, please don't use a plastic or jam jar).  Plan for some smoke, too, so being outside is a big plus.  Having a fire extinguisher, generous amount of baking soda, or fire blanket handy might be a good idea to put out any accidental fires.  Odds are nothing will happen, but be ready just in case.
+While simple, this is the most dangerous part.  Think through safety problems before they happen.  Hot oil can quickly cause burns severe enough to need to go to the hospital or you can start a pretty big fire.  Oil will burst into flames at its flash point if it gets too hot.  Use a container that can withstand direct flame (a metal paint can or canning jar, please don't use a plastic or jam jar).  Plan for some smoke, too, so being outside is a big plus.  Having a fire extinguisher, generous amount of baking soda, or fire blanket handy might be a good idea to put out any accidental fires.  Odds are nothing will happen, but be ready just in case.
 
 Also make sure you have pliers or tongs that firmly grip the iron so you don't drop a glowing red iron on yourself or clothing.
 
