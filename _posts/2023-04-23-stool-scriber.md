@@ -27,7 +27,7 @@ I used a 44mm hole saw to cut out my centre wheels. There is no absolute reason 
 
 ![Stool Scriber](/assets/images/scriber/3.jpg)
 
-Then I pre-drilled the centre hole with an auger bit. Pick one that matches the size of the bolt you are going to use, or a little larger. It does not need to be very precise. Drill as straight as you can through, but again, a perfectly straight hole does not matter much. You can be off quite a bit and it will still work. I pre-drill as the drill bit portion of a hole saw is not an ideal wood drill bit, its pretty slow. It also lets me do a bench of other steps before I need to cut any real depth with the hole saw.    
+Then I pre-drilled the centre hole with an auger bit. Pick one that matches the size of the bolt you are going to use, or a little larger. It does not need to be very precise. Drill as straight as you can through, but again, a perfectly straight hole does not matter much. You can be off quite a bit and it will still work. I pre-drill as the drill bit portion of a hole saw is not an ideal wood drill bit, its pretty slow. It also lets me do a bunch of other steps before I need to cut any real depth with the hole saw.    
 
 ![Stool Scriber](/assets/images/scriber/4.jpg)
 
@@ -52,7 +52,7 @@ Drilling the pencil hole through 3 disks at once. If you are not used to drillin
 
 ![Stool Scriber](/assets/images/scriber/10.jpg)
 
-I drilled the hole for the vertical bolt with an egg beater. This hole was then tapped with a cheap set of Aldi taps. I think I used an M4 bolt. The manual for your tips will tell you what size the pilot hole should be. These are metal taps, but they worked just fine in the walnut. I had intended on using a wooden screw, but I do not have a screwbox and tap small enough, and I found the Aldi dies just mangled small walnut dowels. I could not get a usable screw. So I just went with a standard M4 bolt for this prototype. It works great in the tapped wood.
+I drilled the hole for the vertical bolt with an egg beater. This hole was then tapped with a cheap set of Aldi taps. I think I used an M4 bolt. The manual for your taps will tell you what size the pilot hole should be. These are metal taps, but they worked just fine in the walnut. I had intended on using a wooden screw, but I do not have a screwbox and tap small enough, and I found the Aldi dies just mangled small walnut dowels. I could not get a usable screw. So I just went with a standard M4 bolt for this prototype. It works great in the tapped wood.
 Your tap might need to be able to pass deeper than the centre hole of the disk, so no harm drilling into the centre hole and then through. Take a look at your tap, the widest point should pass all the way through the portion you want to tap. That will let you figure out how deep to drill.  
 
 
