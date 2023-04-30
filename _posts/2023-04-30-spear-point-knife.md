@@ -24,7 +24,5 @@ Here are a few links to find it. Its available in many more places, but often wi
 
 
 This Lee Valley Knife looks like it might be the same one, but its hard to be sure. [https://www.leevalley.com/en-gb/shop/tools/hand-tools/marking-and-measuring/marking-tools/110953-japanese-spear-point-marking-knife?item=60N0704](https://www.leevalley.com/en-gb/shop/tools/hand-tools/marking-and-measuring/marking-tools/110953-japanese-spear-point-marking-knife?item=60N0704)
-
-
 ![spearpoint knife](/assets/images/spearpoint/knife1.png)
 ![spearpoint knife](/assets/images/spearpoint/knife2.jpg)
