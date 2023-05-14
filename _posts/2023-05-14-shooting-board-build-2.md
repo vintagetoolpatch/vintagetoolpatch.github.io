@@ -176,7 +176,7 @@ We have a nice square end. Including pencilling and plane adjusting, that piece 
 
 Despite not even being planed, we are also pretty square to the face. Its not a hard requirement that the stock be perfectly flat and square, but if you are going to try and do some perfect dovetails, I wouldn't trust this piece. 
 
-![Shooting Board](/assets/images/shootbuild2/42.jpg)
+![Shooting Board](/assets/images/shootbuild2/43.jpg)
 
 That's it. The board is complete and working well. I'm not entirely happy with the fence, the dados make it a bit too thin for my liking, I'm not sure it will last a long time. If it does break, I'll try making the replacement out of perspex or something similar.  
 
