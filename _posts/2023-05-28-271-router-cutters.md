@@ -1,7 +1,7 @@
 ---
 layout: post
 author: seanodonnell
-title:  "Veritas Small Router Cutters in the Stanely/Record 271"
+title:  "Veritas Small Router Cutters in the Stanley/Record 271"
 ---
 
 Having a vintage tool missing a part can be aggravating, and you often find that the going price for a part can make that bargain incomplete tool anything but a bargain. I'm always delighted when I find out there is a common source for replacement parts.
