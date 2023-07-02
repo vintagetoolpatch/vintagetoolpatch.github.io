@@ -29,14 +29,14 @@ I used a drilled out steel hinge before I had a dowel plate and the countersink 
 
 See the pictures below for details, and next time we will proceed to actual drawboring!
 
-![draw boring](/assets/images/drawboring/1.jpg)
+![draw boring](/assets/images/drawboring1/1.jpg)
 An assortment of draw boring tools
-![draw boring](/assets/images/drawboring/2.jpg)
+![draw boring](/assets/images/drawboring1/2.jpg)
 A froe and a big bit of Flintstone-like wood
-![draw boring](/assets/images/drawboring/3.jpg)
+![draw boring](/assets/images/drawboring1/3.jpg)
 All digits present and correct
-![draw boring](/assets/images/drawboring/4.jpg)
+![draw boring](/assets/images/drawboring1/4.jpg)
 Dowel leaving a mushroom of shavings behind
-![draw boring](/assets/images/drawboring/5.jpg)
+![draw boring](/assets/images/drawboring1/5.jpg)
 Dowel plate and the end result @ 5/16"
 
