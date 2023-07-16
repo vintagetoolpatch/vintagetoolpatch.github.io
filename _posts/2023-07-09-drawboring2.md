@@ -1,7 +1,7 @@
 ---
 layout: post
 author: philsmith
-title:  "Pins, Plates and Pegs. (Drawboring of course) Part 2"
+title:  "Pins, Plates and Pegs. (Drawboring of course) - Part 2"
 ---
 
 Returning this week to drawboring I mentioned pins, plates and pounding before. I could have added pegs, procrastination and prayer. All that’s coming up next.
