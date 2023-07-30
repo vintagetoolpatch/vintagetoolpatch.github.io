@@ -56,7 +56,7 @@ The first few passes on a 800 grit stone. I'm just touching the front centre of 
 A little more progress on 400 grit.
 ![wooden spokeshave](/assets/images/woodenshave/16.jpg)
 Down to 240 girt, hitting most of the bevel now, but its very uneven.
-![wooden spokeshave](/assets/images/woodenshave/17.jpg)
+![wooden spokeshave](/assets/images/woodenshave/17.png)
 You can see a [short video](https://www.youtube.com/watch?v=JChkKj7DGE0) of how I work the iron on the stone. I tend to pull the iron, starting on one side and slowly sliding across the stone as I pull. You can push and pull, but it can result in rolling the iron slightly, which while it works, makes it harder to tell when you are done, and the uneven bevel will make future sharpening harder. I'll push and pull to do a lot of the grinding, but once I'm getting close to the edge of the bevel, I go pull only for consistency.I use my index fingers to apply pressure to keep the bevel down, while my thumbs put a tiny bit of pressure on the legs to keep it in place.  
 ![wooden spokeshave](/assets/images/woodenshave/18.jpg)
 Now I have a decent bevel, I've worked up the grits, and finally gone to a strop. The same place I get the diamond paddles from sells leather paddles for stropping. (They also sell water and oil stones in the same size if that's your thing).  
