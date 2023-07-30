@@ -71,11 +71,11 @@ And leave a pretty decent surface! I'm happy with that result.
 ![wooden spokeshave](/assets/images/woodenshave/23.jpg)
 On to the second shave. This time I wont use my paddles, I'll demonstrate a simpler method using things you probably already have lying around. This iron is not hollow ground, and is fairly flat. Someone has already had a go at flattening it, so some of my work is done. The iron is slightly convex, just like the last one, and again, its not something we need to get rid of, just polish it up. The process here is identical to the last iron, and only takes a few minutes.
 
-![wooden spokeshave](/assets/images/woodenshave/24.jpg)
+![wooden spokeshave](/assets/images/woodenshave/25.jpg)
 
 So here is my more basic sharpening setup.  Grab some hard wood that is narrower than the space between the legs.  Plane a flat edge (it does not need to be square to the sides as long as the legs can fit over the sides and give full access to the bevel. Cut a strip of sandpaper a tiny bit narrower than the board edge, pull it taut and clamp it down. Now you can work your iron just like I did on the paddle, work up the grits as before. When you get to stopping, remove the sandpaper and just rub the compound directly onto the wood.
 
-![wooden spokeshave](/assets/images/woodenshave/25.jpg)
+![wooden spokeshave](/assets/images/woodenshave/26.jpg)
 
 And just like the previous shave I can get delicate little shavings.
 Or nice thick shavings even on end-grain. This shave does need re-mouthing. It really wants to dive in the cut and its hard to control, but still usable.
