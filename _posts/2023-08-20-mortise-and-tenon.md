@@ -23,7 +23,7 @@ Part 3: [https://www.youtube.com/watch?v=LtBNgly1FFo](https://www.youtube.com/wa
 
 To see future instalments, follow: [https://www.youtube.com/@anirishwoodworkersdiary2137](https://www.youtube.com/@anirishwoodworkersdiary2137)
 
-![Mortise](/assets/images/mortisetenon/1.png)
+![Mortise](/assets/images/mortisetenon/1.jpg)
 
 Georgies stool from 1970, the design has withstood the test of time.
 
