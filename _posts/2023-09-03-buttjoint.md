@@ -4,8 +4,7 @@ author: philipgaynor
 title:  "The Humble Butt Joint"
 ---
 
-In my recent challenge, I and many of you built a basic box using butt joint construction.
-I believe that the butt joint is a fantastic place to start building basic woodworking skills. Youtube often dazzles us with impressive projects and overshadows the basic skills we should really be building. Young and beginner woodworkers in particular may find themselves sinking time into complicated joinery that they do not need to get started.
+In my recent challenge, I and many of you built a basic box using butt joint construction. I believe that the butt joint is a fantastic place to start building basic woodworking skills. Youtube often dazzles us with impressive projects and overshadows the basic skills we should really be building. Young and beginner woodworkers in particular may find themselves sinking time into complicated joinery that they do not need to get started.
 
 The butt joint has been used for hundreds of years, but power tools and computer controlled equipment have unfortunately meant that it has fallen out of favour. I built my small box to prove the point that using a butt joint can produce a beautiful and elegant result owing to its simplicity as well as proving that we don’t always need to make a project using dovetail joints or even box joints.
 
