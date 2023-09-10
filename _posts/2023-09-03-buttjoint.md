@@ -16,11 +16,11 @@ Indeed if we go back even further to the 1800s, and take a look at the construct
 
 I think we need to take a step back in time and teach these simple basic to beginner woodworkers, which will allow them to build beautiful furniture without having to rely on biscuit jointers, or even Domino jointers, instead using skills that have been shared for thousands of years. Doing so we can hopefully preserve our teaching of this craftsmanship for many more years to come.
 
-![Butt Joint](/assets/images/butt/butt1.png)
+![Butt Joint](/assets/images/butt/butt1.jpg)
 
 Simple but attractive boxes constructed with Butt Joints
 
-![Butt Joint](/assets/images/butt/butt2.png)
+![Butt Joint](/assets/images/butt/butt2.jpg)
 
 Did you create a box as part of the challenge, or something else with a butt joint? Share in the comments!
 
