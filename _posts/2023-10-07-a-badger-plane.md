@@ -44,7 +44,7 @@ So, for the price of a hardware kit and a few hours of fabrication, I now have w
 
 <figure>
 <img src="/assets/images/badger-plane/05.jpeg" alt="A wooden plane shown from the front."/>
-<figcaption align = "center">And the final thing, fished and creating some lovely wispy shavings!</figcaption>
+<figcaption align = "center">And the final thing, finished and creating some lovely wispy shavings!</figcaption>
 </figure>
 
 <figure>
