@@ -23,19 +23,19 @@ So lets take a few scenarios, and I'll tell you what I now expect from the Works
 
 2. Small plane iron/moulding plane iron.
 
-Just like the chisel. I'll have this up and running in about 5 minutes. For a plane iron that has no chip breaker, or is for rough work, I again do not care about the slight bit of un-flatness on the back.
+   Just like the chisel. I'll have this up and running in about 5 minutes. For a plane iron that has no chip breaker, or is for rough work, I again do not care about the slight bit of un-flatness on the back.
 
 3. General purpose chisel, Smoothing plane iron, iron with chip breaker
 
-I'll use the Worksharp to do initial flattening, then I'll move from a 600 grit Worksharp CBN wheel to a 600 grit diamond plate to get it truly flat before moving up the grits. It will take about 5 to 10 minutes on a 1 inch iron to get it truly flat on the stone. It will take 20 to 30 minutes on a 2 inch iron, Even if there was some serious material removal with the Worksharp. A huge time saver, but if you need that back absolutely flat, you need to do some after flattening on the stones. 
+   I'll use the Worksharp to do initial flattening, then I'll move from a 600 grit Worksharp CBN wheel to a 600 grit diamond plate to get it truly flat before moving up the grits. It will take about 5 to 10 minutes on a 1 inch iron to get it truly flat on the stone. It will take 20 to 30 minutes on a 2 inch iron, Even if there was some serious material removal with the Worksharp. A huge time saver, but if you need that back absolutely flat, you need to do some after flattening on the stones. 
 
 4. Paring chisel
 
-Nope. I mean a real paring chisel here. Not just a chisel you might use to pare. The long ones, slightly flexible. You really want to flatten the entire back on these, and there just is not enough space on the worksharp. You need a stone. Might use it to work away a little pitting near the tip, but you cannot put enough of a paring chisel on the wheel for it to be worth it. 
+   Nope. I mean a real paring chisel here. Not just a chisel you might use to pare. The long ones, slightly flexible. You really want to flatten the entire back on these, and there just is not enough space on the worksharp. You need a stone. Might use it to work away a little pitting near the tip, but you cannot put enough of a paring chisel on the wheel for it to be worth it. 
 
 5. Very narrow chisel, very narrow blade, "tall chisel"
 
-It can be difficult to "stick" the landing on the Worksharp. For very narrow blades this can result in you removing material at an angle before you know it. Anything less than a 1/4 inch, I'm not going to lap the back on the Worksharp. However, the Worksharp makes it trivial to get a perfect square bevel, far easier and quicker than any other way I have at my disposal. So bevels, yes, backs no. Tall irons like a classic mortice chisel are also difficult to hold flat, so they are a pass as well. Some pig sticker mortice chisels are too tall to fit in the slot for creating bevels.
+   It can be difficult to "stick" the landing on the Worksharp. For very narrow blades this can result in you removing material at an angle before you know it. Anything less than a 1/4 inch, I'm not going to lap the back on the Worksharp. However, the Worksharp makes it trivial to get a perfect square bevel, far easier and quicker than any other way I have at my disposal. So bevels, yes, backs no. Tall irons like a classic mortice chisel are also difficult to hold flat, so they are a pass as well. Some pig sticker mortice chisels are too tall to fit in the slot for creating bevels.
 
 For most tools, this is a big win in terms of time. I have a lot of tools in use now that would still be sitting in the restore pile if it was not for the Worksharp. Woodturners Wonders sell a 800/1200 wheel I will probably add to my collection. I had thought the diamond discs would do that job, but sadly no.
 
