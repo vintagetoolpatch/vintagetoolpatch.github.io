@@ -27,7 +27,7 @@ Siggy Chaloupa, all the way from Australia, somehow managed to convince his bett
 
 Andy Tuckwell brought me a massive beast of a Syracuse wood boring bit that has to be seen to be believed. It had a wooden tube to hold it made with the bit itself, and staring at it you suddenly understand how wooden pipes were once a thing.
 
-Shrenik Savla-Shash turned up, and brought me my copy of the wonderful "British Saws & Saw Makers" by Simon Barley. 
+Shrenik Savla-Shah turned up, and brought me my copy of the wonderful "British Saws & Saw Makers" by Simon Barley. 
 
 Alexander Angell and Phil Bristow, both Bench Talk friends made it down to hang out and help drool over tools as well.
 
