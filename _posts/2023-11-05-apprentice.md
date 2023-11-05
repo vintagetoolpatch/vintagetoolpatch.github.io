@@ -4,7 +4,7 @@ author: philipgaynor
 title:  "The Young Apprentice"
 ---
 
-Just recently I got too thinking about my journey as an apprentice carpenter and in particular buying my first set of hand tools.
+Just recently, I got too thinking about my journey as an apprentice carpenter and in particular buying my first set of hand tools.
 
 With my first weeks wages I bought a set of blue chip wood chisels and a few weeks later I bought a No.5 Stanley hand plane. Over the years I built up a good selection of hand tools that were put to good use. I carried them from job site too job site in a green canvas tool sack and learned many a trick from other carpenters.
 
