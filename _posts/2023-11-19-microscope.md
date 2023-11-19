@@ -109,6 +109,6 @@ The Proyan. As I mentioned, I went back and forth between the two stones several
 Shapton (top), Proyan (bottom). The ridges left by the Proyan are consistently (but not much ) smaller. I'm pretty satisfied that the Proyan's claimed 0.64 micron rating is true.
 
 
-![Metallurgical Microscope](/assets/images/scope/13.png)
+![Metallurgical Microscope](/assets/images/scope/13.jpg)
 
 This is currently the cheapest scanning electron microscope on Ebay. Its used, the asking price is £16,000. And that's with it in "as is" untested condition.  I don't think the kids will be amused if I put it in the play room. Actually they would be, I would not be amused when they destroyed it... 
