@@ -43,7 +43,7 @@ And If I move the dividers to the bottom, you can see that holds true there as w
 
 ![Laying out Dovetails](/assets/images/dovetaillayout/8.jpg)
 
-That means if I put one foot on the inner side of the last tail, the overlap into the half pin shows me how wide the tail is going to be at that side.
+That means if I put one foot on the inner side of the last tail, the overlap into the half pin shows me how wide the tail is going to be on that edge of the board.
 
 
 ![Laying out Dovetails](/assets/images/dovetaillayout/9.jpg)
