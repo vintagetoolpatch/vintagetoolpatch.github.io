@@ -18,7 +18,7 @@ I've been using this solution for a few years now. Not as solid as a real tail v
 
 I added to the setup with a Veritas Wonder Pup, for taller workpieces it provides more and sturdier clamping force.   
 
-Check out the photo's and video below to see what the setup looks like in use.
+Check out the photo's below to see what the setup looks like in use.
 
 ![Tail Vice](/assets/images/tailvice/1.jpg)
 
