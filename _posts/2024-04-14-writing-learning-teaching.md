@@ -67,11 +67,11 @@ My little workshop. Taken tonight. Messy, small and overflowing with tools from 
 
 The patch. Not only a place to get tools. A wonderful group of people who are always willing to pull together and help. There are no dumb questions on the patch. Just wonderful, helpful, patient folk. 
 
-![Writing](/assets/images/writing/3.jpg)
+![Writing](/assets/images/writing/3.png)
 
 Bench Talk 101 - "A modern style guild/fellowship for like minded woodworkers." A wonderful bunch who meet up every Thursday night to talk tools and woodworking on zoom. Often until the small hours of the morning. Hard to believe that it will have been running for 4 years come May. I have this group to thank for a lot of great friends all over the world. Open to all, but largely UK based.
 
-![Writing](/assets/images/writing/4.jpg)
+![Writing](/assets/images/writing/4.png)
 
 Hand Planes & Coffee - Regular zoom calls largely focused on Hand Planes, but often diving into all things tools and woodworking. US based, but with regular attendees from all over the world. Everyone on this call is always so happy to share what they know. An absolute goldmine!
 
