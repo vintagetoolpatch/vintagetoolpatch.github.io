@@ -4,7 +4,7 @@ author: seanodonnell
 title:  "Wooton's Patent Cabinet Office Secretary"
 ---
 
-	This week I'm going to share what I consider an iconic piece of furniture. We all have pieces that capture our imagination. I think Chris Byrne first showed me some images of the Wooton's Patent Cabinet Office Secretary. I was captivated, and remain so.
+This week I'm going to share what I consider an iconic piece of furniture. We all have pieces that capture our imagination. I think Chris Byrne first showed me some images of the Wooton's Patent Cabinet Office Secretary. I was captivated, and remain so.
 
 These desks date back to the late 1800s. The patented design was issued to William S. Wooton, a former pattern maker who had turned to making school and office furniture. As the size of business grew, this was Wootens solution for the busy executive with a lot to keep track of. 
 
