@@ -212,7 +212,7 @@ Very happy with the dovetails. Nothing wrong with a saw or square that get that 
 
 It it just fits into the lower compartment of the tool chest. The free vertical space is needed, as I have to tilt it to fit around the dust seals on the way in/out.
 
-[![Chisel Holder](/assets/images/chiselholder/43.jpg)](https://youtu.be/sc93rSC6cJY)
+[![Chisel Holder](/assets/images/chiselholder/44.png)](https://youtu.be/sc93rSC6cJY)
 
 Finally here is [a video](https://youtu.be/sc93rSC6cJY) of the holder. You can see how well it locks, while still opening easily.
 
