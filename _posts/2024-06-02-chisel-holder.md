@@ -182,7 +182,7 @@ Using the B Square as a saw guide. I recommend starting the cut before bringing 
 
 ![Chisel Holder](/assets/images/chiselholder/36.jpg)
 
-The parts ready for assembly. I pre-finished the body and the inside faces of the long sides, as once assembled, these will be hard to reach.
+The parts ready for assembly. I pre-finished the body and the inside faces of the long sides, as once assembled, these will be hard to reach. Worth mentioning that during testing I noticed some fibres beginning to tear out on the underside where the ball catch hit. I added a steep 1mm bevel to the underside and that seemed to take care of it.
 
 ![Chisel Holder](/assets/images/chiselholder/37.jpg)
 
