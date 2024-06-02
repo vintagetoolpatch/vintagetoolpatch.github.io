@@ -50,7 +50,7 @@ This is the finished chisel holder. I'm very happy with it.
 
 Zach Dillinger's version. The top of this holder has a carrying handle. Something I did not have the space for. This and the original design use a 2 piece body with grooves for the chisel blades. If you have wider chisels this approach is a must. Give my two chisels are very small, drilling a hole was just as good. Note the toggle Zach added to hold it closed or open. Genius! In the background you can see the book Zach took inspiration from.
 
-![Chisel Holder](/assets/images/chiselholder/3.jpg)
+![Chisel Holder](/assets/images/chiselholder/3.png)
 
 The original John Wilson version. You can see the stick used to hold it open, and there is no locking mechanism. Still a wonderful design, and optimized for being very quick and simple to make. 
 
