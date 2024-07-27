@@ -32,7 +32,7 @@ So if you have a need to cut holes, or like me, you need round discs, this is a 
 
 Here it is, The Star-M No. 36. Look at the bevel angles on the cutters. Looks wrong to me, but its right. The little bit on the bottom right can be swapped in instead of the auger for thin pieces. 
 
-![Circle Cutter](/assets/images/circlecutter/2.jpg)
+![Circle Cutter](/assets/images/circlecutter/2.webp)
 
 Looks a lot like this vintage washer/tank cutter. I've tried a vintage eclipse one for this job. It can't really cut very deep into wood.
 
@@ -60,7 +60,7 @@ For this hole. I stopped half way through and flipped the board. The exit wound 
 Without the backing board, the disc breaks free leaving some material on the sides.
 ![Circle Cutter](/assets/images/circlecutter/9.jpg)
 
-You can just turn the disc on the bit by hand to trim it off, so no a big deal.
+You can just turn the disc on the bit by hand to trim it off, so not a big deal.
 ![Circle Cutter](/assets/images/circlecutter/10.jpg)
 
 The finished disc.
