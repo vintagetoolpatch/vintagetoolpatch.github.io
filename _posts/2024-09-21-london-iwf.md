@@ -8,6 +8,8 @@ I'm going to use this week to give you all a heads up on the [London Internation
 
 Then on Friday the 1st of November the [IWF Bazaar](https://londoniwf.co.uk/the-london-iwf-bazaar/) kicks off at noon. There is a long list of [retailers](https://londoniwf.co.uk/the-london-iwf-bazaar/) that reads like a who's who of hand tool makers and retailers. There are no seminars on the Friday, but on Saturday you have Mark Harrell speaking on Saw Sharpening, Chris Schwarz on Peasant Furniture, Phil Edwards on Making Traditional Wooden Planes. Megan Fitzpatrick on Shaker Furniture, Derek Jones on Cricket Tables and Richard Arnold on 18th Century Joinery.
 
+You can watch an overview of the event [here](https://www.youtube.com/watch?v=4uItMbrqNK4)
+
 All in all it looks like a perfect week for me. Say hello if you are coming along and spot me! 
 
 ![London IWF](/assets/images/londoniwf/1.jpg)
