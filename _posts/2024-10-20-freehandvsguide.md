@@ -36,5 +36,8 @@ Lastly I keep a [Richard Kell No. 1](http://richardkell.co.uk/honingECom.htm) gu
 So I mostly freehand, but I like my honing guides. Where does that leave us? Where it usually does. There can be a lot of snobbery in woodworking. Unplugged vs plugged. Machines vs Hand Tools. Vintage vs New Tools. If it works for you, it works for you. But keep trying new things, and keep learning. If you have never free hand sharpened, maybe grab one of your beater chisels and give it a try. You might be surprised by how quick it can be. If you free hand everything. Grab a honing guide and take one of your worker tools to it. Are you getting a better edge? Might be worth taking the tool back to a guide more often for a reset. Either way, there is little more satisfying in woodworking than taking a fresh sharp edge to wood and watching the shavings fly.   
 
 ![Freehand](/assets/images/freehand/1.jpg)
+The Veritas MKII guide. Very flexible, as you can change out the head and roller for the right one for the job. Here you can see the vertical clamp above, best for larger irons. And the side clamp below. Best for narrow blades.
 ![Freehand](/assets/images/freehand/2.jpg)
+Top right you can see the cambered roller than I'm fond of for smoothing plane irons.
 ![Freehand](/assets/images/freehand/3.jpg)
+The Richard Kell No. 1 Honing guide. Hard to beat for very short irons.
