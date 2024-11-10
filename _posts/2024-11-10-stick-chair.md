@@ -92,6 +92,8 @@ The [IBTC](https://www.ibtc.co.uk/) had one of their Gorgeous boats on display a
 
 I got to enjoy Mark Harrell of [SawSharp](https://www.sawsharp.com/) deliver an entertaining history of Disston, and Richard Arnold demonstrating how some 18th century planes have features that shame many modern tools. There were many other speakers, but with so many old friends around I could not possible make it to all of them.
 
+Richard Hughes brought along a selection of eye wateringly beautiful planes he has made. I spent a very happy time pouring over every detail of them.
+
 The good news is, if you missed it, the IWF with be returning in 2025!
 
 See the pictures below to see some of the chair building build and a tiny glimpse of the IWF.
