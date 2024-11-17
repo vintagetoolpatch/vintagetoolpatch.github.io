@@ -30,12 +30,6 @@ Twist bit. Just for giggles, we tried a plane old twist bit. No spurs or wings. 
 
 So thats it for drill bit testing for a while. Just about everything I've been recommended has been tried. I wont be writing about egg-beaters and bits here again unless I find something that actually beats the Star-M.
 
-
-
-Lastly I keep a [Richard Kell No. 1](http://richardkell.co.uk/honingECom.htm) guide handy. I have some truly tiny spokeshaves around. Its very hard to hold them at a consistent angle freehand, and this little guide is one of the few that will hold the tiny irons steady, while still allowing it to contact the stone.
-
-So I mostly freehand, but I like my honing guides. Where does that leave us? Where it usually does. There can be a lot of snobbery in woodworking. Unplugged vs plugged. Machines vs Hand Tools. Vintage vs New Tools. If it works for you, it works for you. But keep trying new things, and keep learning. If you have never free hand sharpened, maybe grab one of your beater chisels and give it a try. You might be surprised by how quick it can be. If you free hand everything. Grab a honing guide and take one of your worker tools to it. Are you getting a better edge? Might be worth taking the tool back to a guide more often for a reset. Either way, there is little more satisfying in woodworking than taking a fresh sharp edge to wood and watching the shavings fly.   
-
 ![Egg Beater Bits](/assets/images/eggbeater2/1.jpg)
 
 The results, from top to bottom. Star-M 601, Bosch DIY, Bosch Pro, Fisch G70, Fisch G61, Famag, Lee Valley Brad Points, Twist Bit. The left two holes for each bit are straight in. The right two are after a few revolutions backwards.
