@@ -30,7 +30,7 @@ Not a new tin, its already been used on a few projects. Its a pretty hard wax in
 ![stickchair](/assets/images/stickchair2/5.jpg)
 Just swirl the pad on it a few times, and it starts to load nicely.
 ![stickchair](/assets/images/stickchair2/6.jpg)
-A little goes a long way. The same tin after the chair has received a complete coat.
+A little goes a long way. The same tin after the chair has recieved 3 coats.
 ![stickchair](/assets/images/stickchair2/7.jpg)
 See the visible thick streak of wax? If you can see that, you have not spread it enough yet.
 ![stickchair](/assets/images/stickchair2/8.jpg)
