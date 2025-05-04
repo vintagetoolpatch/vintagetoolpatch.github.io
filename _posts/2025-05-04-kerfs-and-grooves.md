@@ -6,11 +6,11 @@ title:  "Kerfs & Grooves"
 
 Next up on the loom is creating kerfs on the front and back pieces for the yarn to go through. While thinking about it a groove on the front and back faces just where the kerfs end will prevent the yarn from slipping out. So grooving time it is. 
 
-My Record 043 has a fence that is a bit warped. So I'll fix that first. Then cut many many many grooves for the yarn. The photos below, as usual, show the step by step process.
+My Record 043 has a fence that is a bit warped. So I'll fix that first. Then cut many many many kerfs for the yarn. The photos below, as usual, show the step by step process.
 
 ![kerfs and grooves](/assets/images/kerfsandgrooves/1.jpg)
 
-As look would have it I got a really wonderful package from Ryan Powell. Along with some Vintage Tool patch stickers, he put in some exotic pen blanks, drill bits and even a selection of Music. I selected the Lignum Vitae blank (second from the right), re-read Ryan's article on [making a fence for the 043](https://blog.vintagetoolpatch.com/2023/06/24/record-043-fence.html) and had at it.
+As luck would have it I got a really wonderful package from Ryan Powell. Along with some Vintage Tool patch stickers, he put in some exotic pen blanks, drill bits and even a selection of Music. I selected the Lignum Vitae blank (second from the right), re-read Ryan's article on [making a fence for the 043](https://blog.vintagetoolpatch.com/2023/06/24/record-043-fence.html) and had at it.
 
 ![kerfs and grooves](/assets/images/kerfsandgrooves/2.jpg)
 
@@ -61,7 +61,7 @@ Working my way along, not every cut is perfectly straight, but they are good eno
 
 ![kerfs and grooves](/assets/images/kerfsandgrooves/13.jpg)
 
-Once I complete the board I realise my cuts are very uneven on the backside. I set to evening them up a little and at one point managed to twist the plate in the kerf and snap one off.... See the dark patch in the middle. Yip, superglue. Got it back on fast, and now I cant easily tell which it is. The uneven depths are just aesthetic. The year will go under, into the groove, and back out, so the height of the yarn (which needs to be even), is actually determined by the groove, not the kerf.
+Once I complete the board I realise my cuts are very uneven on the backside. I set to evening them up a little and at one point managed to twist the plate in the kerf and snap one off.... See the dark patch in the middle. Yip, superglue. Got it back on fast, and now I cant easily tell which it is. The uneven depths are just aesthetic. The yarn will go under, into the groove, and back out, so the height of the yarn (which needs to be even), is actually determined by the groove, not the kerf.
 
 
 ![kerfs and grooves](/assets/images/kerfsandgrooves/14.jpg)
