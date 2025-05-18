@@ -6,7 +6,7 @@ title:  "Loom Glue Up"
 
 Glue ups are always stressful. On any moderately complicated project, something always seems to go wrong. So lets see how this one goes.
 
-Step 1 for me is always to do a dry glue-up. When possible, clamp everything together without glue. This will show you if a piece just will not seat, and let you fine tune out without having a clock running because your glue is drying on other parts.
+Step 1 for me is always to do a dry glue-up. When possible, clamp everything together without glue. This will show you if a piece just will not seat, and let you fine tune out without having a clock running because your glue is drying on other parts. Some projects do not lend themselves to a complete assembly. Fully seating dovetails before gluing can be risky. Its easy to damage them as you take them apart. But here, with only lap joints, its easy and pretty risk free. 
 
 It will also let you know if you are a bit short on clamps, or if that clamp you thought was long enough, is not in fact long enough. Again, better to learn these things before the glue starts drying.
 
